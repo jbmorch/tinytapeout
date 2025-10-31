@@ -17,9 +17,9 @@ project:
 pinout:
   # Inputs
   ui[0]: "V+"
-  ui[1]: "Reset"
-  ui[2]: "Clock"
-  ui[3]: "Enable"
+  ui[1]: "Enable"
+  ui[2]: ""
+  ui[3]: ""
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
