@@ -13,7 +13,7 @@ The goal is to create an 8-line counter, similar to a TI CD4022B decade counter 
 
 ## How to test
 
-Set enable to high and pulse the clock input with a square wave.
+Set enable to high and pulse the clock input with a square wave. NOTE the enable is not working. It will always be enabled.
 
 ## External hardware
 
